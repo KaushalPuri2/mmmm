@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Gemini Chat",
+  "description": "A clean, modern chat interface powered by Gemini, featuring real-time responses and a ChatGPT-inspired design.",
+  "requestFramePermissions": []
+}
